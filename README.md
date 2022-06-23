@@ -1,5 +1,5 @@
 # calculadora
-Calculadora html , css e js
+Calculadora html , css e javascript
 
 
 Projeto de simples calculadora com todas as funcionalidades 
